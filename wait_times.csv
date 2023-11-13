@@ -1,0 +1,1104 @@
+,attraction,land,park,day,is_open_M,is_open_A,is_open_E,wait_time_M,wait_time_A,wait_time_E
+0,Festival of the Lion King,Africa,Animal Kingdom,Friday,True,True,True,0.0,0.0,0.0
+1,Festival of the Lion King,Africa,Animal Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+2,Gorilla Falls Exploration Trail,Africa,Animal Kingdom,Friday,True,True,False,0.0,0.0,0.0
+3,Gorilla Falls Exploration Trail,Africa,Animal Kingdom,Saturday,True,True,False,0.0,0.0,0.0
+4,Kilimanjaro Safaris,Africa,Animal Kingdom,Friday,True,True,False,65.0,30.0,0.0
+5,Kilimanjaro Safaris,Africa,Animal Kingdom,Saturday,True,True,False,70.0,45.0,0.0
+6,Wildlife Express Train,Africa,Animal Kingdom,Friday,True,True,False,0.0,0.0,0.0
+7,Wildlife Express Train,Africa,Animal Kingdom,Saturday,True,True,False,0.0,0.0,0.0
+8,Expedition Everest - Legend of the Forbidden Mountain,Asia,Animal Kingdom,Friday,False,True,True,0.0,50.0,25.0
+9,Expedition Everest - Legend of the Forbidden Mountain,Asia,Animal Kingdom,Saturday,True,True,True,75.0,65.0,35.0
+10,Feathered Friends in Flight!,Asia,Animal Kingdom,Friday,True,True,True,0.0,0.0,0.0
+11,Feathered Friends in Flight!,Asia,Animal Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+12,Kali River Rapids,Asia,Animal Kingdom,Friday,True,True,True,10.0,10.0,5.0
+13,Kali River Rapids,Asia,Animal Kingdom,Saturday,True,True,True,5.0,5.0,5.0
+14,DINOSAUR,Dinoland U.S.A,Animal Kingdom,Friday,True,True,True,35.0,30.0,15.0
+15,DINOSAUR,Dinoland U.S.A,Animal Kingdom,Saturday,True,True,True,65.0,40.0,25.0
+16,Finding Nemo: The Big Blue... and Beyond!,Dinoland U.S.A,Animal Kingdom,Friday,True,True,True,0.0,0.0,0.0
+17,Finding Nemo: The Big Blue... and Beyond!,Dinoland U.S.A,Animal Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+18,The Boneyard,Dinoland U.S.A,Animal Kingdom,Friday,True,True,True,0.0,0.0,0.0
+19,The Boneyard,Dinoland U.S.A,Animal Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+20,TriceraTop Spin,Dinoland U.S.A,Animal Kingdom,Friday,True,True,True,10.0,5.0,5.0
+21,TriceraTop Spin,Dinoland U.S.A,Animal Kingdom,Saturday,True,True,True,15.0,10.0,10.0
+22,It's Tough to be a Bug!,Discovery Island,Animal Kingdom,Friday,True,False,True,10.0,0.0,10.0
+23,It's Tough to be a Bug!,Discovery Island,Animal Kingdom,Saturday,True,True,True,10.0,10.0,10.0
+24,Meet Favorite Disney Pals at Adventurers Outpost,Discovery Island,Animal Kingdom,Friday,True,True,False,45.0,30.0,0.0
+25,Meet Favorite Disney Pals at Adventurers Outpost,Discovery Island,Animal Kingdom,Saturday,True,True,False,35.0,45.0,0.0
+26,Avatar Flight of Passage,Pandora - The World of Avatar,Animal Kingdom,Friday,True,True,True,70.0,60.0,70.0
+27,Avatar Flight of Passage,Pandora - The World of Avatar,Animal Kingdom,Saturday,True,True,True,110.0,75.0,105.0
+28,Na'vi River Journey,Pandora - The World of Avatar,Animal Kingdom,Friday,True,True,True,120.0,65.0,55.0
+29,Na'vi River Journey,Pandora - The World of Avatar,Animal Kingdom,Saturday,True,True,True,50.0,80.0,70.0
+30,The Animation Experience at Conservation Station,Rafiki's Planet Watch,Animal Kingdom,Friday,True,True,True,0.0,0.0,0.0
+31,The Animation Experience at Conservation Station,Rafiki's Planet Watch,Animal Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+32,Guardians of the Galaxy - Mission: BREAKOUT!,Avengers Campus,California Adventure,Friday,True,True,True,45.0,35.0,45.0
+33,Guardians of the Galaxy - Mission: BREAKOUT!,Avengers Campus,California Adventure,Saturday,True,True,True,15.0,40.0,50.0
+34,WEB SLINGERS: A Spider-Man Adventure,Avengers Campus,California Adventure,Friday,True,True,True,10.0,15.0,35.0
+35,WEB SLINGERS: A Spider-Man Adventure,Avengers Campus,California Adventure,Saturday,True,True,True,25.0,30.0,45.0
+36,WEB SLINGERS: A Spider-Man Adventure Single Rider,Avengers Campus,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+37,WEB SLINGERS: A Spider-Man Adventure Single Rider,Avengers Campus,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+38,Red Car Trolley,Buena Vista Street,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+39,Red Car Trolley,Buena Vista Street,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+40,Luigi's Honkin' Haul-O-Ween,Cars Land,California Adventure,Friday,False,False,False,0.0,0.0,0.0
+41,Luigi's Honkin' Haul-O-Ween,Cars Land,California Adventure,Saturday,False,False,False,0.0,0.0,0.0
+42,Mater's Graveyard JamBOOree,Cars Land,California Adventure,Friday,False,False,False,0.0,0.0,0.0
+43,Mater's Graveyard JamBOOree,Cars Land,California Adventure,Saturday,False,False,False,0.0,0.0,0.0
+44,Radiator Springs Racers,Cars Land,California Adventure,Friday,True,True,True,75.0,55.0,50.0
+45,Radiator Springs Racers,Cars Land,California Adventure,Saturday,True,True,True,70.0,80.0,65.0
+46,Radiator Springs Racers Single Rider,Cars Land,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+47,Radiator Springs Racers Single Rider,Cars Land,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+48,Grizzly River Run,Grizzly Peak,California Adventure,Friday,True,False,True,5.0,0.0,25.0
+49,Grizzly River Run,Grizzly Peak,California Adventure,Saturday,False,True,True,0.0,15.0,30.0
+50,Redwood Creek Challenge Trail,Grizzly Peak,California Adventure,Friday,False,False,False,0.0,0.0,0.0
+51,Redwood Creek Challenge Trail,Grizzly Peak,California Adventure,Saturday,False,False,False,0.0,0.0,0.0
+52,Soarin' Around the World,Grizzly Peak,California Adventure,Friday,True,True,True,20.0,20.0,45.0
+53,Soarin' Around the World,Grizzly Peak,California Adventure,Saturday,True,True,True,60.0,35.0,40.0
+54,Mickey's PhilharMagic,Hollywood Land,California Adventure,Friday,False,True,True,0.0,10.0,10.0
+55,Mickey's PhilharMagic,Hollywood Land,California Adventure,Saturday,True,True,True,10.0,10.0,10.0
+56,"Monsters, Inc. Mike & Sulley to the Rescue!",Hollywood Land,California Adventure,Friday,True,True,True,5.0,30.0,25.0
+57,"Monsters, Inc. Mike & Sulley to the Rescue!",Hollywood Land,California Adventure,Saturday,True,True,True,35.0,45.0,45.0
+58,Rogers: The Musical,Hollywood Land,California Adventure,Friday,False,False,False,0.0,0.0,0.0
+59,Rogers: The Musical,Hollywood Land,California Adventure,Saturday,False,False,False,0.0,0.0,0.0
+60,Sorcerer's Workshop,Hollywood Land,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+61,Sorcerer's Workshop,Hollywood Land,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+62,Golden Zephyr,Paradise Gardens Park,California Adventure,Friday,True,True,True,5.0,5.0,5.0
+63,Golden Zephyr,Paradise Gardens Park,California Adventure,Saturday,True,True,True,5.0,5.0,5.0
+64,Goofy's Sky School,Paradise Gardens Park,California Adventure,Friday,False,True,True,0.0,25.0,25.0
+65,Goofy's Sky School,Paradise Gardens Park,California Adventure,Saturday,True,True,True,35.0,25.0,25.0
+66,Silly Symphony Swings,Paradise Gardens Park,California Adventure,Friday,True,True,True,0.0,15.0,5.0
+67,Silly Symphony Swings,Paradise Gardens Park,California Adventure,Saturday,True,True,True,5.0,5.0,5.0
+68,Silly Symphony Swings Single Rider,Paradise Gardens Park,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+69,Silly Symphony Swings Single Rider,Paradise Gardens Park,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+70,The Little Mermaid - Ariel's Undersea Adventure,Paradise Gardens Park,California Adventure,Friday,True,True,True,5.0,5.0,5.0
+71,The Little Mermaid - Ariel's Undersea Adventure,Paradise Gardens Park,California Adventure,Saturday,True,True,True,5.0,5.0,5.0
+72,World of Color – ONE,Paradise Gardens Park,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+73,World of Color – ONE,Paradise Gardens Park,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+74,Games of Pixar Pier,Pixar Pier,California Adventure,Friday,True,True,True,0.0,5.0,5.0
+75,Games of Pixar Pier,Pixar Pier,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+76,Incredicoaster,Pixar Pier,California Adventure,Friday,True,True,True,15.0,15.0,10.0
+77,Incredicoaster,Pixar Pier,California Adventure,Saturday,True,True,True,15.0,15.0,35.0
+78,Incredicoaster Single Rider,Pixar Pier,California Adventure,Friday,True,True,True,0.0,0.0,0.0
+79,Incredicoaster Single Rider,Pixar Pier,California Adventure,Saturday,True,True,True,0.0,0.0,0.0
+80,Inside Out Emotional Whirlwind,Pixar Pier,California Adventure,Friday,True,True,True,5.0,10.0,10.0
+81,Inside Out Emotional Whirlwind,Pixar Pier,California Adventure,Saturday,True,True,True,5.0,10.0,15.0
+82,Jessie's Critter Carousel,Pixar Pier,California Adventure,Friday,True,True,True,5.0,5.0,5.0
+83,Jessie's Critter Carousel,Pixar Pier,California Adventure,Saturday,True,True,True,0.0,5.0,5.0
+84,Jumpin' Jellyfish,Pixar Pier,California Adventure,Friday,True,True,True,5.0,10.0,10.0
+85,Jumpin' Jellyfish,Pixar Pier,California Adventure,Saturday,True,True,True,5.0,5.0,5.0
+86,Pixar Pal-A-Round - Swinging,Pixar Pier,California Adventure,Friday,True,True,True,5.0,10.0,15.0
+87,Pixar Pal-A-Round - Swinging,Pixar Pier,California Adventure,Saturday,True,True,True,10.0,10.0,30.0
+88,Pixar Pal-A-Round – Non-Swinging,Pixar Pier,California Adventure,Friday,True,True,True,5.0,10.0,15.0
+89,Pixar Pal-A-Round – Non-Swinging,Pixar Pier,California Adventure,Saturday,True,True,True,15.0,15.0,25.0
+90,Toy Story Midway Mania!,Pixar Pier,California Adventure,Friday,True,True,True,15.0,60.0,35.0
+91,Toy Story Midway Mania!,Pixar Pier,California Adventure,Saturday,True,True,True,75.0,40.0,40.0
+92,Blue Streak,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+93,Blue Streak,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+94,Cedar Creek Mine Ride,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+95,Cedar Creek Mine Ride,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+96,Corkscrew,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+97,Corkscrew,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+98,GateKeeper,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+99,GateKeeper,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+100,Gemini,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+101,Gemini,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+102,Iron Dragon,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+103,Iron Dragon,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+104,Magnum XL-200,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+105,Magnum XL-200,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+106,Maverick,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+107,Maverick,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+108,Millennium Force,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+109,Millennium Force,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+110,Pipe Scream,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+111,Pipe Scream,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+112,Raptor,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+113,Raptor,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+114,Rougarou,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+115,Rougarou,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+116,Steel Vengeance,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+117,Steel Vengeance,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+118,Valravn,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+119,Valravn,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+120,Wild Mouse,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+121,Wild Mouse,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+122,Wilderness Run,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+123,Wilderness Run,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+124,Woodstock Express,Coasters,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+125,Woodstock Express,Coasters,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+126,4x4's,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+127,4x4's,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+128,Cadillac Cars,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+129,Cadillac Cars,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+130,Cedar Point & Lake Erie Railroad - Frontier Town Station,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+131,Cedar Point & Lake Erie Railroad - Frontier Town Station,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+132,Cedar Point & Lake Erie Railroad - Main Station,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+133,Cedar Point & Lake Erie Railroad - Main Station,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+134,Charlie Brown's Wind-Up,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+135,Charlie Brown's Wind-Up,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+136,Flying Ace Balloon Race,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+137,Flying Ace Balloon Race,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+138,Giant Wheel,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+139,Giant Wheel,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+140,Kiddy Kingdom Carousel,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+141,Kiddy Kingdom Carousel,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+142,Lake Erie Eagles,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+143,Lake Erie Eagles,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+144,Linus' Beetle Bugs,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+145,Linus' Beetle Bugs,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+146,Midway Carousel,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+147,Midway Carousel,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+148,PEANUTS™ 500,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+149,PEANUTS™ 500,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+150,PEANUTS™ Road Rally,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+151,PEANUTS™ Road Rally,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+152,Sky Ride - East,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+153,Sky Ride - East,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+154,Sky Ride - West,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+155,Sky Ride - West,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+156,Snake River Expedition,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+157,Snake River Expedition,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+158,Snoopy's Deep Sea Divers,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+159,Snoopy's Deep Sea Divers,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+160,Snoopy's Express Railroad,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+161,Snoopy's Express Railroad,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+162,Woodstock's Whirlybirds,Family,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+163,Woodstock's Whirlybirds,Family,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+164,Balloon Race,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+165,Balloon Race,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+166,Camp Bus,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+167,Camp Bus,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+168,Dune Buggies,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+169,Dune Buggies,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+170,Helicopters,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+171,Helicopters,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+172,Joe Cool's Dodgem School,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+173,Joe Cool's Dodgem School,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+174,Kite Eating Tree,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+175,Kite Eating Tree,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+176,Motorcycles,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+177,Motorcycles,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+178,Mustangs,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+179,Mustangs,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+180,Police Cars,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+181,Police Cars,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+182,Red Baron,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+183,Red Baron,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+184,"Rock, Spin & Turn",Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+185,"Rock, Spin & Turn",Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+186,Roto Whip,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+187,Roto Whip,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+188,Sky Fighters,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+189,Sky Fighters,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+190,Snoopy's Space Race,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+191,Snoopy's Space Race,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+192,Space Age,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+193,Space Age,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+194,Woodstock's Airmail,Kids,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+195,Woodstock's Airmail,Kids,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+196,Bloodbath,Other Rides,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+197,Bloodbath,Other Rides,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+198,Fearground Freakshow,Other Rides,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+199,Fearground Freakshow,Other Rides,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+200,Midnight,Other Rides,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+201,Midnight,Other Rides,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+202,Slaughter House,Other Rides,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+203,Slaughter House,Other Rides,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+204,The Haunting of Eerie Estate,Other Rides,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+205,The Haunting of Eerie Estate,Other Rides,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+206,Atomic Scrambler,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+207,Atomic Scrambler,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+208,Calypso,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+209,Calypso,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+210,Cedar Downs Racing Derby,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+211,Cedar Downs Racing Derby,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+212,Dodgem,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+213,Dodgem,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+214,Matterhorn,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+215,Matterhorn,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+216,Monster,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+217,Monster,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+218,Ocean Motion,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+219,Ocean Motion,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+220,Power Tower,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+221,Power Tower,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+222,Professor Delbert's Frontier Fling,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+223,Professor Delbert's Frontier Fling,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+224,Skyhawk,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+225,Skyhawk,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+226,SlingShot,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+227,SlingShot,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+228,Snake River Falls,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+229,Snake River Falls,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+230,Super Himalaya,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+231,Super Himalaya,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+232,Thunder Canyon,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+233,Thunder Canyon,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+234,Troika,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+235,Troika,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+236,Wave Swinger,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+237,Wave Swinger,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+238,WindSeeker,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+239,WindSeeker,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+240,maXair,Thrill,Cedar Point,Friday,False,False,False,0.0,0.0,0.0
+241,maXair,Thrill,Cedar Point,Saturday,False,False,False,0.0,0.0,0.0
+242,Indiana Jones™ Adventure,Adventureland,Disneyland,Friday,True,True,True,20.0,45.0,30.0
+243,Indiana Jones™ Adventure,Adventureland,Disneyland,Saturday,False,False,True,0.0,0.0,55.0
+244,Jungle Cruise,Adventureland,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+245,Jungle Cruise,Adventureland,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+246,Walt Disney's Enchanted Tiki Room,Adventureland,Disneyland,Friday,True,True,True,0.0,0.0,0.0
+247,Walt Disney's Enchanted Tiki Room,Adventureland,Disneyland,Saturday,True,True,True,0.0,0.0,0.0
+248,Davy Crockett's Explorer Canoes,Critter Country,Disneyland,Friday,False,True,True,0.0,10.0,10.0
+249,Davy Crockett's Explorer Canoes,Critter Country,Disneyland,Saturday,True,True,True,10.0,10.0,10.0
+250,Splash Mountain,Critter Country,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+251,Splash Mountain,Critter Country,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+252,The Many Adventures of Winnie the Pooh,Critter Country,Disneyland,Friday,True,True,True,5.0,5.0,5.0
+253,The Many Adventures of Winnie the Pooh,Critter Country,Disneyland,Saturday,True,True,True,5.0,5.0,5.0
+254,"""it's a small world""",Fantasyland,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+255,"""it's a small world""",Fantasyland,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+256,Alice in Wonderland,Fantasyland,Disneyland,Friday,True,True,True,20.0,20.0,30.0
+257,Alice in Wonderland,Fantasyland,Disneyland,Saturday,True,True,True,20.0,30.0,25.0
+258,Casey Jr. Circus Train,Fantasyland,Disneyland,Friday,True,True,True,5.0,5.0,5.0
+259,Casey Jr. Circus Train,Fantasyland,Disneyland,Saturday,True,True,True,15.0,5.0,5.0
+260,Dumbo the Flying Elephant,Fantasyland,Disneyland,Friday,True,True,True,10.0,25.0,20.0
+261,Dumbo the Flying Elephant,Fantasyland,Disneyland,Saturday,True,True,True,20.0,20.0,20.0
+262,King Arthur Carrousel,Fantasyland,Disneyland,Friday,True,True,True,5.0,5.0,5.0
+263,King Arthur Carrousel,Fantasyland,Disneyland,Saturday,True,True,True,10.0,10.0,5.0
+264,Mad Tea Party,Fantasyland,Disneyland,Friday,True,True,True,5.0,5.0,5.0
+265,Mad Tea Party,Fantasyland,Disneyland,Saturday,True,True,True,5.0,5.0,5.0
+266,Matterhorn Bobsleds,Fantasyland,Disneyland,Friday,True,True,True,10.0,30.0,25.0
+267,Matterhorn Bobsleds,Fantasyland,Disneyland,Saturday,True,True,True,50.0,40.0,25.0
+268,Meet Tinker Bell in Pixie Hollow,Fantasyland,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+269,Meet Tinker Bell in Pixie Hollow,Fantasyland,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+270,Mr. Toad's Wild Ride,Fantasyland,Disneyland,Friday,True,True,True,5.0,15.0,15.0
+271,Mr. Toad's Wild Ride,Fantasyland,Disneyland,Saturday,True,True,True,25.0,15.0,15.0
+272,Peter Pan's Flight,Fantasyland,Disneyland,Friday,True,True,True,30.0,35.0,30.0
+273,Peter Pan's Flight,Fantasyland,Disneyland,Saturday,True,True,True,35.0,35.0,25.0
+274,Pinocchio's Daring Journey,Fantasyland,Disneyland,Friday,True,True,True,5.0,5.0,10.0
+275,Pinocchio's Daring Journey,Fantasyland,Disneyland,Saturday,True,False,True,5.0,0.0,10.0
+276,Sleeping Beauty Castle Walkthrough,Fantasyland,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+277,Sleeping Beauty Castle Walkthrough,Fantasyland,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+278,Snow White's Enchanted Wish,Fantasyland,Disneyland,Friday,True,True,True,5.0,15.0,15.0
+279,Snow White's Enchanted Wish,Fantasyland,Disneyland,Saturday,True,False,True,15.0,0.0,15.0
+280,Storybook Land Canal Boats,Fantasyland,Disneyland,Friday,True,True,True,10.0,15.0,5.0
+281,Storybook Land Canal Boats,Fantasyland,Disneyland,Saturday,True,True,True,20.0,10.0,15.0
+282,Big Thunder Mountain Railroad,Frontierland,Disneyland,Friday,True,True,True,20.0,25.0,25.0
+283,Big Thunder Mountain Railroad,Frontierland,Disneyland,Saturday,True,True,True,30.0,30.0,30.0
+284,Mark Twain Riverboat,Frontierland,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+285,Mark Twain Riverboat,Frontierland,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+286,Pirate's Lair on Tom Sawyer Island,Frontierland,Disneyland,Friday,False,True,True,0.0,5.0,5.0
+287,Pirate's Lair on Tom Sawyer Island,Frontierland,Disneyland,Saturday,True,True,True,5.0,5.0,5.0
+288,Sailing Ship Columbia,Frontierland,Disneyland,Friday,False,True,True,0.0,0.0,0.0
+289,Sailing Ship Columbia,Frontierland,Disneyland,Saturday,True,True,True,0.0,0.0,0.0
+290,Disneyland Railroad,Main Street U.S.A,Disneyland,Friday,True,True,True,0.0,0.0,10.0
+291,Disneyland Railroad,Main Street U.S.A,Disneyland,Saturday,True,True,True,5.0,10.0,10.0
+292,The Disneyland Story presenting Great Moments with Mr. Lincoln,Main Street U.S.A,Disneyland,Friday,False,True,True,0.0,0.0,0.0
+293,The Disneyland Story presenting Great Moments with Mr. Lincoln,Main Street U.S.A,Disneyland,Saturday,True,True,True,0.0,0.0,0.0
+294,Chip 'n' Dale's GADGETcoaster,Mickey's Toontown,Disneyland,Friday,False,True,True,0.0,25.0,20.0
+295,Chip 'n' Dale's GADGETcoaster,Mickey's Toontown,Disneyland,Saturday,True,True,True,15.0,40.0,15.0
+296,Goofy's How-to-Play Yard,Mickey's Toontown,Disneyland,Friday,False,False,False,0.0,0.0,0.0
+297,Goofy's How-to-Play Yard,Mickey's Toontown,Disneyland,Saturday,False,False,False,0.0,0.0,0.0
+298,Mickey & Minnie's Runaway Railway,Mickey's Toontown,Disneyland,Friday,True,True,True,10.0,20.0,55.0
+299,Mickey & Minnie's Runaway Railway,Mickey's Toontown,Disneyland,Saturday,True,False,False,35.0,0.0,0.0
+300,Mickey's House and Meet Mickey Mouse,Mickey's Toontown,Disneyland,Friday,True,True,True,0.0,30.0,20.0
+301,Mickey's House and Meet Mickey Mouse,Mickey's Toontown,Disneyland,Saturday,True,True,True,15.0,15.0,15.0
+302,Roger Rabbit's Car Toon Spin,Mickey's Toontown,Disneyland,Friday,False,True,True,0.0,40.0,40.0
+303,Roger Rabbit's Car Toon Spin,Mickey's Toontown,Disneyland,Saturday,True,True,True,30.0,60.0,55.0
+304,Haunted Mansion Holiday,New Orleans Square,Disneyland,Friday,True,True,True,13.0,30.0,45.0
+305,Haunted Mansion Holiday,New Orleans Square,Disneyland,Saturday,False,True,True,0.0,40.0,40.0
+306,Pirates of the Caribbean,New Orleans Square,Disneyland,Friday,True,True,True,5.0,15.0,15.0
+307,Pirates of the Caribbean,New Orleans Square,Disneyland,Saturday,True,True,True,20.0,25.0,20.0
+308,Millennium Falcon: Smugglers Run,Star Wars: Galaxy's Edge,Disneyland,Friday,True,True,True,5.0,45.0,15.0
+309,Millennium Falcon: Smugglers Run,Star Wars: Galaxy's Edge,Disneyland,Saturday,True,True,True,60.0,70.0,45.0
+310,Millennium Falcon: Smugglers Run Single Rider,Star Wars: Galaxy's Edge,Disneyland,Friday,True,True,True,0.0,0.0,0.0
+311,Millennium Falcon: Smugglers Run Single Rider,Star Wars: Galaxy's Edge,Disneyland,Saturday,True,True,True,0.0,0.0,0.0
+312,Star Wars: Rise of the Resistance,Star Wars: Galaxy's Edge,Disneyland,Friday,True,True,True,65.0,35.0,35.0
+313,Star Wars: Rise of the Resistance,Star Wars: Galaxy's Edge,Disneyland,Saturday,True,True,True,115.0,85.0,50.0
+314,Astro Orbitor,Tomorrowland,Disneyland,Friday,True,True,True,5.0,15.0,10.0
+315,Astro Orbitor,Tomorrowland,Disneyland,Saturday,True,True,True,15.0,25.0,15.0
+316,Autopia,Tomorrowland,Disneyland,Friday,True,True,True,5.0,35.0,10.0
+317,Autopia,Tomorrowland,Disneyland,Saturday,True,True,True,25.0,35.0,15.0
+318,Buzz Lightyear Astro Blasters,Tomorrowland,Disneyland,Friday,True,True,True,5.0,20.0,5.0
+319,Buzz Lightyear Astro Blasters,Tomorrowland,Disneyland,Saturday,True,True,True,10.0,25.0,5.0
+320,Disneyland Monorail,Tomorrowland,Disneyland,Friday,True,True,True,5.0,5.0,5.0
+321,Disneyland Monorail,Tomorrowland,Disneyland,Saturday,False,True,True,0.0,5.0,5.0
+322,Finding Nemo Submarine Voyage,Tomorrowland,Disneyland,Friday,True,True,True,5.0,10.0,10.0
+323,Finding Nemo Submarine Voyage,Tomorrowland,Disneyland,Saturday,True,True,True,5.0,15.0,20.0
+324,Space Mountain,Tomorrowland,Disneyland,Friday,True,True,True,10.0,45.0,55.0
+325,Space Mountain,Tomorrowland,Disneyland,Saturday,True,True,True,25.0,45.0,55.0
+326,Star Tours - The Adventures Continue,Tomorrowland,Disneyland,Friday,True,True,True,5.0,10.0,15.0
+327,Star Tours - The Adventures Continue,Tomorrowland,Disneyland,Saturday,True,True,True,10.0,25.0,10.0
+328,Hydra,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+329,Hydra,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+330,Possessed,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+331,Possessed,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+332,Steel Force,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+333,Steel Force,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+334,Talon,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+335,Talon,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+336,ThunderHawk,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+337,ThunderHawk,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+338,Wild Mouse,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+339,Wild Mouse,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+340,Woodstock Express,Coasters,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+341,Woodstock Express,Coasters,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+342,Antique Carousel,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+343,Antique Carousel,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+344,Apollo,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+345,Apollo,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+346,Cedar Creek Cannonball,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+347,Cedar Creek Cannonball,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+348,Cedar Creek Flyers,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+349,Cedar Creek Flyers,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+350,Dodgem,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+351,Dodgem,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+352,Ferris Wheel,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+353,Ferris Wheel,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+354,Kaleidoscope,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+355,Kaleidoscope,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+356,Monster,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+357,Monster,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+358,Musik Express,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+359,Musik Express,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+360,Road Rally,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+361,Road Rally,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+362,Scrambler,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+363,Scrambler,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+364,Sea Dragon,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+365,Sea Dragon,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+366,Tilt-a-Whirl,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+367,Tilt-a-Whirl,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+368,Wave Swinger,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+369,Wave Swinger,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+370,Whip,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+371,Whip,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+372,Zephyr,Family,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+373,Zephyr,Family,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+374,Camp Bus,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+375,Camp Bus,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+376,Charlie Brown's Wind-Up,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+377,Charlie Brown's Wind-Up,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+378,Flying Ace,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+379,Flying Ace,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+380,Flying Ace Balloon Race,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+381,Flying Ace Balloon Race,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+382,Kite Eating Tree,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+383,Kite Eating Tree,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+384,Linus Launcher,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+385,Linus Launcher,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+386,PEANUTS™ 500,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+387,PEANUTS™ 500,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+388,PEANUTS™ Road Rally,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+389,PEANUTS™ Road Rally,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+390,Sally's Swing Set,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+391,Sally's Swing Set,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+392,Snoopy's Cloud Climbers,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+393,Snoopy's Cloud Climbers,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+394,Snoopy's Junction,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+395,Snoopy's Junction,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+396,Snoopy's Rocket Express,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+397,Snoopy's Rocket Express,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+398,Woodstock Whirlybirds,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+399,Woodstock Whirlybirds,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+400,Woodstock's Wagon Wheel,Kids,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+401,Woodstock's Wagon Wheel,Kids,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+402,Blackout,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+403,Blackout,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+404,Blood on the Bayou,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+405,Blood on the Bayou,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+406,Ghost in the Machine,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+407,Ghost in the Machine,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+408,Necropolis,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+409,Necropolis,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+410,Roadside Stop & Chop,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+411,Roadside Stop & Chop,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+412,Tourist Trap,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+413,Tourist Trap,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+414,Trick Or Treat,Other Rides,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+415,Trick Or Treat,Other Rides,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+416,Demon Drop,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+417,Demon Drop,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+418,Dominator - Green (Drop Down),Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+419,Dominator - Green (Drop Down),Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+420,Dominator - Red (Launch Up),Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+421,Dominator - Red (Launch Up),Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+422,Enterprise,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+423,Enterprise,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+424,Meteor,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+425,Meteor,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+426,Revolution,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+427,Revolution,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+428,Thunder Canyon,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+429,Thunder Canyon,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+430,Thunder Creek Mountain,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+431,Thunder Creek Mountain,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+432,White Water Landing,Thrill,Dorney Park,Friday,False,False,False,0.0,0.0,0.0
+433,White Water Landing,Thrill,Dorney Park,Saturday,False,False,False,0.0,0.0,0.0
+434,Disney and Pixar Short Film Festival,World Celebration,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+435,Disney and Pixar Short Film Festival,World Celebration,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+436,Journey Into Imagination With Figment,World Celebration,EPCOT,Friday,True,True,True,20.0,10.0,5.0
+437,Journey Into Imagination With Figment,World Celebration,EPCOT,Saturday,True,True,True,15.0,15.0,5.0
+438,Spaceship Earth,World Celebration,EPCOT,Friday,True,True,True,10.0,5.0,5.0
+439,Spaceship Earth,World Celebration,EPCOT,Saturday,True,True,False,5.0,10.0,0.0
+440,Guardians of the Galaxy: Cosmic Rewind,World Discovery,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+441,Guardians of the Galaxy: Cosmic Rewind,World Discovery,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+442,Mission: SPACE,World Discovery,EPCOT,Friday,True,True,True,15.0,10.0,10.0
+443,Mission: SPACE,World Discovery,EPCOT,Saturday,True,True,True,15.0,15.0,10.0
+444,Test Track,World Discovery,EPCOT,Friday,True,True,True,70.0,90.0,70.0
+445,Test Track,World Discovery,EPCOT,Saturday,True,True,True,45.0,70.0,45.0
+446,Test Track Presented by Chevrolet Single Rider,World Discovery,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+447,Test Track Presented by Chevrolet Single Rider,World Discovery,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+448,Awesome Planet,World Nature,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+449,Awesome Planet,World Nature,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+450,"Journey of Water, Inspired by Moana",World Nature,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+451,"Journey of Water, Inspired by Moana",World Nature,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+452,Living with the Land,World Nature,EPCOT,Friday,True,True,True,15.0,20.0,5.0
+453,Living with the Land,World Nature,EPCOT,Saturday,True,True,True,5.0,5.0,5.0
+454,Soarin' Over California,World Nature,EPCOT,Friday,True,True,True,55.0,50.0,45.0
+455,Soarin' Over California,World Nature,EPCOT,Saturday,True,True,True,65.0,50.0,50.0
+456,The Seas with Nemo & Friends,World Nature,EPCOT,Friday,True,True,True,25.0,15.0,5.0
+457,The Seas with Nemo & Friends,World Nature,EPCOT,Saturday,True,True,True,20.0,5.0,5.0
+458,Turtle Talk With Crush,World Nature,EPCOT,Friday,True,True,True,15.0,15.0,15.0
+459,Turtle Talk With Crush,World Nature,EPCOT,Saturday,True,True,True,15.0,15.0,15.0
+460,Canada Far and Wide in Circle-Vision 360,World Showcase,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+461,Canada Far and Wide in Circle-Vision 360,World Showcase,EPCOT,Saturday,True,True,True,0.0,0.0,0.0
+462,Frozen Ever After,World Showcase,EPCOT,Friday,True,True,False,55.0,75.0,0.0
+463,Frozen Ever After,World Showcase,EPCOT,Saturday,True,True,True,75.0,85.0,75.0
+464,Gran Fiesta Tour Starring The Three Caballeros,World Showcase,EPCOT,Friday,True,True,True,5.0,5.0,5.0
+465,Gran Fiesta Tour Starring The Three Caballeros,World Showcase,EPCOT,Saturday,True,True,True,15.0,15.0,15.0
+466,Meet Anna and Elsa at Royal Sommerhus,World Showcase,EPCOT,Friday,True,True,True,20.0,30.0,40.0
+467,Meet Anna and Elsa at Royal Sommerhus,World Showcase,EPCOT,Saturday,True,True,True,40.0,20.0,40.0
+468,Remy's Ratatouille Adventure,World Showcase,EPCOT,Friday,True,True,True,35.0,80.0,60.0
+469,Remy's Ratatouille Adventure,World Showcase,EPCOT,Saturday,True,True,False,85.0,75.0,0.0
+470,Remy's Ratatouille Adventure Single Rider,World Showcase,EPCOT,Friday,True,True,True,0.0,0.0,0.0
+471,Remy's Ratatouille Adventure Single Rider,World Showcase,EPCOT,Saturday,True,True,False,0.0,0.0,0.0
+472,Disney Junior Play and Dance!,Animation Courtyard,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+473,Disney Junior Play and Dance!,Animation Courtyard,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+474,Meet Sulley at Walt Disney Presents,Animation Courtyard,Hollywood Studios,Friday,False,False,False,0.0,0.0,0.0
+475,Meet Sulley at Walt Disney Presents,Animation Courtyard,Hollywood Studios,Saturday,False,False,False,0.0,0.0,0.0
+476,Walt Disney Presents,Animation Courtyard,Hollywood Studios,Friday,True,True,True,15.0,20.0,20.0
+477,Walt Disney Presents,Animation Courtyard,Hollywood Studios,Saturday,True,True,True,5.0,5.0,5.0
+478,Meet Disney Stars at Red Carpet Dreams,Commissary Lane,Hollywood Studios,Friday,True,True,True,25.0,35.0,55.0
+479,Meet Disney Stars at Red Carpet Dreams,Commissary Lane,Hollywood Studios,Saturday,True,True,True,40.0,45.0,45.0
+480,For the First Time in Forever: A Frozen Sing-Along Celebration,Echo Lake,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+481,For the First Time in Forever: A Frozen Sing-Along Celebration,Echo Lake,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+482,Indiana Jones™ Epic Stunt Spectacular!,Echo Lake,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+483,Indiana Jones™ Epic Stunt Spectacular!,Echo Lake,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+484,Meet Olaf at Celebrity Spotlight,Echo Lake,Hollywood Studios,Friday,True,True,False,25.0,15.0,0.0
+485,Meet Olaf at Celebrity Spotlight,Echo Lake,Hollywood Studios,Saturday,True,True,False,20.0,20.0,0.0
+486,Star Tours – The Adventures Continue,Echo Lake,Hollywood Studios,Friday,True,True,True,20.0,15.0,5.0
+487,Star Tours – The Adventures Continue,Echo Lake,Hollywood Studios,Saturday,True,True,True,15.0,25.0,5.0
+488,Vacation Fun - An Original Animated Short with Mickey & Minnie,Echo Lake,Hollywood Studios,Friday,True,True,True,10.0,10.0,10.0
+489,Vacation Fun - An Original Animated Short with Mickey & Minnie,Echo Lake,Hollywood Studios,Saturday,True,True,True,10.0,10.0,10.0
+490,Mickey & Minnie's Runaway Railway,Hollywood Boulevard,Hollywood Studios,Friday,True,True,True,60.0,60.0,55.0
+491,Mickey & Minnie's Runaway Railway,Hollywood Boulevard,Hollywood Studios,Saturday,True,True,True,50.0,50.0,65.0
+492,Muppet*Vision 3D,Muppet Courtyard,Hollywood Studios,Friday,True,True,True,10.0,10.0,10.0
+493,Muppet*Vision 3D,Muppet Courtyard,Hollywood Studios,Saturday,True,True,True,10.0,10.0,10.0
+494,Toy Story Mania!,Pixar Place,Hollywood Studios,Friday,True,True,True,70.0,50.0,90.0
+495,Toy Story Mania!,Pixar Place,Hollywood Studios,Saturday,True,True,True,40.0,50.0,70.0
+496,Millennium Falcon: Smugglers Run,Star Wars: Galaxy's Edge,Hollywood Studios,Friday,True,True,True,55.0,35.0,45.0
+497,Millennium Falcon: Smugglers Run,Star Wars: Galaxy's Edge,Hollywood Studios,Saturday,True,True,True,50.0,60.0,30.0
+498,Millennium Falcon: Smugglers Run Single Rider,Star Wars: Galaxy's Edge,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+499,Millennium Falcon: Smugglers Run Single Rider,Star Wars: Galaxy's Edge,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+500,Star Wars: Rise of the Resistance,Star Wars: Galaxy's Edge,Hollywood Studios,Friday,True,True,True,75.0,65.0,35.0
+501,Star Wars: Rise of the Resistance,Star Wars: Galaxy's Edge,Hollywood Studios,Saturday,True,True,True,70.0,110.0,75.0
+502,Beauty & The Beast Live on Stage,Sunset Boulevard,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+503,Beauty & The Beast Live on Stage,Sunset Boulevard,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+504,Lightning McQueen's Racing Academy,Sunset Boulevard,Hollywood Studios,Friday,True,True,True,0.0,15.0,15.0
+505,Lightning McQueen's Racing Academy,Sunset Boulevard,Hollywood Studios,Saturday,True,True,True,15.0,15.0,15.0
+506,Rock 'n' Roller Coaster Starring Aerosmith,Sunset Boulevard,Hollywood Studios,Friday,True,True,True,45.0,65.0,90.0
+507,Rock 'n' Roller Coaster Starring Aerosmith,Sunset Boulevard,Hollywood Studios,Saturday,True,True,True,100.0,70.0,70.0
+508,Rock 'n' Roller Coaster Starring Aerosmith Single Rider,Sunset Boulevard,Hollywood Studios,Friday,True,True,True,0.0,0.0,0.0
+509,Rock 'n' Roller Coaster Starring Aerosmith Single Rider,Sunset Boulevard,Hollywood Studios,Saturday,True,True,True,0.0,0.0,0.0
+510,The Twilight Zone Tower of Terror™,Sunset Boulevard,Hollywood Studios,Friday,True,True,True,90.0,40.0,110.0
+511,The Twilight Zone Tower of Terror™,Sunset Boulevard,Hollywood Studios,Saturday,True,True,True,50.0,95.0,90.0
+512,Alien Swirling Saucers,Toy Story Land,Hollywood Studios,Friday,True,True,True,30.0,35.0,30.0
+513,Alien Swirling Saucers,Toy Story Land,Hollywood Studios,Saturday,True,True,True,30.0,30.0,20.0
+514,Slinky Dog Dash,Toy Story Land,Hollywood Studios,Friday,True,True,True,75.0,70.0,120.0
+515,Slinky Dog Dash,Toy Story Land,Hollywood Studios,Saturday,True,True,True,115.0,105.0,100.0
+516,Camp Jurassic™,Jurassic Park,Islands of Adventure,Friday,True,True,True,0.0,0.0,0.0
+517,Camp Jurassic™,Jurassic Park,Islands of Adventure,Saturday,True,True,True,0.0,0.0,0.0
+518,Jurassic Park Discovery Center™,Jurassic Park,Islands of Adventure,Friday,True,True,False,0.0,0.0,0.0
+519,Jurassic Park Discovery Center™,Jurassic Park,Islands of Adventure,Saturday,True,True,True,0.0,0.0,0.0
+520,Jurassic Park River Adventure™,Jurassic Park,Islands of Adventure,Friday,True,True,True,10.0,20.0,10.0
+521,Jurassic Park River Adventure™,Jurassic Park,Islands of Adventure,Saturday,True,True,False,15.0,25.0,0.0
+522,Jurassic World VelociCoaster,Jurassic Park,Islands of Adventure,Friday,True,True,True,45.0,65.0,90.0
+523,Jurassic World VelociCoaster,Jurassic Park,Islands of Adventure,Saturday,True,True,True,75.0,60.0,105.0
+524,Pteranodon Flyers™,Jurassic Park,Islands of Adventure,Friday,True,True,True,40.0,30.0,40.0
+525,Pteranodon Flyers™,Jurassic Park,Islands of Adventure,Saturday,True,True,True,45.0,40.0,45.0
+526,Skull Island: Reign of Kong™,Jurassic Park,Islands of Adventure,Friday,True,True,True,40.0,35.0,40.0
+527,Skull Island: Reign of Kong™,Jurassic Park,Islands of Adventure,Saturday,True,True,True,40.0,35.0,45.0
+528,Doctor Doom's Fearfall®,Marvel Super Hero Island,Islands of Adventure,Friday,True,True,True,10.0,5.0,5.0
+529,Doctor Doom's Fearfall®,Marvel Super Hero Island,Islands of Adventure,Saturday,True,True,True,5.0,5.0,25.0
+530,Storm Force Accelatron®,Marvel Super Hero Island,Islands of Adventure,Friday,True,True,True,5.0,5.0,5.0
+531,Storm Force Accelatron®,Marvel Super Hero Island,Islands of Adventure,Saturday,True,True,True,5.0,5.0,10.0
+532,The Amazing Adventures of Spider-Man®,Marvel Super Hero Island,Islands of Adventure,Friday,True,True,True,30.0,20.0,20.0
+533,The Amazing Adventures of Spider-Man®,Marvel Super Hero Island,Islands of Adventure,Saturday,True,True,True,20.0,35.0,45.0
+534,The Incredible Hulk Coaster®,Marvel Super Hero Island,Islands of Adventure,Friday,True,True,True,25.0,15.0,50.0
+535,The Incredible Hulk Coaster®,Marvel Super Hero Island,Islands of Adventure,Saturday,True,True,True,15.0,25.0,90.0
+536,Caro-Seuss-el™,Seuss Landing,Islands of Adventure,Friday,True,True,True,5.0,5.0,20.0
+537,Caro-Seuss-el™,Seuss Landing,Islands of Adventure,Saturday,True,True,True,5.0,5.0,25.0
+538,If I Ran The Zoo™,Seuss Landing,Islands of Adventure,Friday,True,True,True,0.0,0.0,0.0
+539,If I Ran The Zoo™,Seuss Landing,Islands of Adventure,Saturday,True,True,True,0.0,0.0,0.0
+540,"One Fish, Two Fish, Red Fish, Blue Fish™",Seuss Landing,Islands of Adventure,Friday,True,True,True,5.0,5.0,20.0
+541,"One Fish, Two Fish, Red Fish, Blue Fish™",Seuss Landing,Islands of Adventure,Saturday,True,True,True,25.0,20.0,40.0
+542,The Cat in The Hat™,Seuss Landing,Islands of Adventure,Friday,True,False,True,5.0,0.0,25.0
+543,The Cat in The Hat™,Seuss Landing,Islands of Adventure,Saturday,True,True,True,20.0,20.0,45.0
+544,The High in the Sky Seuss Trolley Train Ride!™,Seuss Landing,Islands of Adventure,Friday,True,False,True,30.0,0.0,10.0
+545,The High in the Sky Seuss Trolley Train Ride!™,Seuss Landing,Islands of Adventure,Saturday,False,True,True,0.0,50.0,50.0
+546,Flight of the Hippogriff™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Friday,True,True,True,20.0,25.0,40.0
+547,Flight of the Hippogriff™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Saturday,True,True,True,35.0,25.0,45.0
+548,Hagrid's Magical Creatures Motorbike Adventure™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Friday,True,True,True,85.0,75.0,90.0
+549,Hagrid's Magical Creatures Motorbike Adventure™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Saturday,True,True,True,85.0,75.0,90.0
+550,Harry Potter and the Forbidden Journey™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Friday,True,True,True,15.0,15.0,35.0
+551,Harry Potter and the Forbidden Journey™,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Saturday,True,True,True,25.0,35.0,35.0
+552,Hogwarts™ Express - Hogsmeade™ Station,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Friday,True,True,False,10.0,25.0,0.0
+553,Hogwarts™ Express - Hogsmeade™ Station,The Wizarding World of Harry Potter - Hogsmeade,Islands of Adventure,Saturday,True,True,False,35.0,20.0,0.0
+554,Dudley Do-Right's Ripsaw Falls®,Toon Lagoon,Islands of Adventure,Friday,False,False,False,0.0,0.0,0.0
+555,Dudley Do-Right's Ripsaw Falls®,Toon Lagoon,Islands of Adventure,Saturday,False,False,False,0.0,0.0,0.0
+556,"Me Ship, The Olive®",Toon Lagoon,Islands of Adventure,Friday,True,True,True,0.0,0.0,0.0
+557,"Me Ship, The Olive®",Toon Lagoon,Islands of Adventure,Saturday,True,True,True,0.0,0.0,0.0
+558,Popeye & Bluto's Bilge-Rat Barges®,Toon Lagoon,Islands of Adventure,Friday,True,True,True,10.0,10.0,10.0
+559,Popeye & Bluto's Bilge-Rat Barges®,Toon Lagoon,Islands of Adventure,Saturday,True,False,True,10.0,0.0,10.0
+560,Dragon Coaster,Castle Hill,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+561,Dragon Coaster,Castle Hill,Legoland California,Saturday,True,True,True,5.0,5.0,20.0
+562,LEGO® City: Deep Sea Adventure,Castle Hill,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+563,LEGO® City: Deep Sea Adventure,Castle Hill,Legoland California,Saturday,True,True,True,5.0,5.0,35.0
+564,Royal Joust,Castle Hill,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+565,Royal Joust,Castle Hill,Legoland California,Saturday,True,True,True,5.0,10.0,25.0
+566,Coastersaurus,Explorer Island,Legoland California,Friday,False,True,True,0.0,15.0,20.0
+567,Coastersaurus,Explorer Island,Legoland California,Saturday,True,True,True,45.0,50.0,30.0
+568,Fairy Tale Brook,Explorer Island,Legoland California,Friday,False,False,False,0.0,0.0,0.0
+569,Fairy Tale Brook,Explorer Island,Legoland California,Saturday,False,False,False,0.0,0.0,0.0
+570,Driving School,Fun Town,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+571,Driving School,Fun Town,Legoland California,Saturday,True,True,True,5.0,5.0,10.0
+572,Fun Town Police and Fire Academy,Fun Town,Legoland California,Friday,False,True,True,0.0,20.0,10.0
+573,Fun Town Police and Fire Academy,Fun Town,Legoland California,Saturday,True,True,True,5.0,5.0,20.0
+574,Junior Driving School,Fun Town,Legoland California,Friday,False,True,True,0.0,10.0,5.0
+575,Junior Driving School,Fun Town,Legoland California,Saturday,True,True,True,5.0,5.0,10.0
+576,Kid Power Tower,Fun Town,Legoland California,Friday,False,True,True,0.0,5.0,10.0
+577,Kid Power Tower,Fun Town,Legoland California,Saturday,True,True,True,5.0,5.0,5.0
+578,LEGOLAND® Express,Fun Town,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+579,LEGOLAND® Express,Fun Town,Legoland California,Saturday,True,True,True,5.0,5.0,5.0
+580,Skipper School,Fun Town,Legoland California,Friday,False,True,True,0.0,25.0,10.0
+581,Skipper School,Fun Town,Legoland California,Saturday,True,True,True,5.0,15.0,30.0
+582,Sky Patrol,Fun Town,Legoland California,Friday,False,True,True,0.0,5.0,10.0
+583,Sky Patrol,Fun Town,Legoland California,Saturday,True,True,True,5.0,15.0,20.0
+584,BIONICLE® Blaster,Imagination Zone,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+585,BIONICLE® Blaster,Imagination Zone,Legoland California,Saturday,True,True,True,5.0,5.0,5.0
+586,LEGO® Technic Coaster,Imagination Zone,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+587,LEGO® Technic Coaster,Imagination Zone,Legoland California,Saturday,True,True,True,5.0,10.0,10.0
+588,LEGO® NINJAGO® The Ride,LEGO® NINJAGO® WORLD,Legoland California,Friday,False,True,True,0.0,10.0,5.0
+589,LEGO® NINJAGO® The Ride,LEGO® NINJAGO® WORLD,Legoland California,Saturday,True,True,True,40.0,25.0,20.0
+590,Beetle Bounce,Land of Adventure,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+591,Beetle Bounce,Land of Adventure,Legoland California,Saturday,True,True,True,5.0,5.0,10.0
+592,Cargo Ace,Land of Adventure,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+593,Cargo Ace,Land of Adventure,Legoland California,Saturday,True,True,True,10.0,15.0,10.0
+594,Dune Raiders,Land of Adventure,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+595,Dune Raiders,Land of Adventure,Legoland California,Saturday,True,True,True,0.0,5.0,5.0
+596,Lost Kingdom Adventure,Land of Adventure,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+597,Lost Kingdom Adventure,Land of Adventure,Legoland California,Saturday,True,True,True,5.0,10.0,15.0
+598,Coast Cruise,Miniland USA,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+599,Coast Cruise,Miniland USA,Legoland California,Saturday,True,True,True,10.0,5.0,15.0
+600,Captain Cranky's Challenge,Pirate Shores,Legoland California,Friday,False,True,True,0.0,10.0,25.0
+601,Captain Cranky's Challenge,Pirate Shores,Legoland California,Saturday,True,True,True,5.0,5.0,30.0
+602,Pirate Reef,Pirate Shores,Legoland California,Friday,False,False,False,0.0,0.0,0.0
+603,Pirate Reef,Pirate Shores,Legoland California,Saturday,False,False,False,0.0,0.0,0.0
+604,Splash Battle,Pirate Shores,Legoland California,Friday,False,False,False,0.0,0.0,0.0
+605,Splash Battle,Pirate Shores,Legoland California,Saturday,False,False,False,0.0,0.0,0.0
+606,Emmet's Flying Adventure Ride,THE LEGO® MOVIE™ WORLD,Legoland California,Friday,False,True,True,0.0,10.0,15.0
+607,Emmet's Flying Adventure Ride,THE LEGO® MOVIE™ WORLD,Legoland California,Saturday,True,True,True,15.0,35.0,15.0
+608,Queen Watevra’s Carousel,THE LEGO® MOVIE™ WORLD,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+609,Queen Watevra’s Carousel,THE LEGO® MOVIE™ WORLD,Legoland California,Saturday,True,True,True,10.0,10.0,10.0
+610,Unikitty's Disco Drop,THE LEGO® MOVIE™ WORLD,Legoland California,Friday,False,True,True,0.0,5.0,5.0
+611,Unikitty's Disco Drop,THE LEGO® MOVIE™ WORLD,Legoland California,Saturday,True,True,True,5.0,15.0,25.0
+612,A Pirate's Adventure ~ Treasures of the Seven Seas,Adventureland,Magic Kingdom,Friday,False,True,False,0.0,0.0,0.0
+613,A Pirate's Adventure ~ Treasures of the Seven Seas,Adventureland,Magic Kingdom,Saturday,True,True,False,0.0,0.0,0.0
+614,Jingle Cruise,Adventureland,Magic Kingdom,Friday,,,True,,,60.0
+615,Jingle Cruise,Adventureland,Magic Kingdom,Saturday,True,True,True,45.0,30.0,75.0
+616,Jungle Cruise,Adventureland,Magic Kingdom,Friday,False,False,,0.0,0.0,
+617,Pirates of the Caribbean,Adventureland,Magic Kingdom,Friday,True,True,True,55.0,50.0,50.0
+618,Pirates of the Caribbean,Adventureland,Magic Kingdom,Saturday,False,False,True,0.0,0.0,50.0
+619,Swiss Family Treehouse,Adventureland,Magic Kingdom,Friday,True,True,True,5.0,5.0,5.0
+620,Swiss Family Treehouse,Adventureland,Magic Kingdom,Saturday,True,True,True,5.0,5.0,5.0
+621,The Magic Carpets of Aladdin,Adventureland,Magic Kingdom,Friday,True,True,True,20.0,15.0,35.0
+622,The Magic Carpets of Aladdin,Adventureland,Magic Kingdom,Saturday,True,True,True,50.0,15.0,25.0
+623,Walt Disney's Enchanted Tiki Room,Adventureland,Magic Kingdom,Friday,True,True,True,15.0,15.0,15.0
+624,Walt Disney's Enchanted Tiki Room,Adventureland,Magic Kingdom,Saturday,True,True,True,10.0,10.0,10.0
+625,"""it's a small world""",Fantasyland,Magic Kingdom,Friday,True,True,True,35.0,20.0,30.0
+626,"""it's a small world""",Fantasyland,Magic Kingdom,Saturday,True,True,True,40.0,20.0,30.0
+627,Dumbo the Flying Elephant,Fantasyland,Magic Kingdom,Friday,True,True,True,40.0,35.0,25.0
+628,Dumbo the Flying Elephant,Fantasyland,Magic Kingdom,Saturday,True,True,True,40.0,30.0,15.0
+629,Enchanted Tales with Belle,Fantasyland,Magic Kingdom,Friday,True,True,True,60.0,50.0,45.0
+630,Enchanted Tales with Belle,Fantasyland,Magic Kingdom,Saturday,True,False,True,25.0,0.0,30.0
+631,Mad Tea Party,Fantasyland,Magic Kingdom,Friday,True,True,True,20.0,15.0,25.0
+632,Mad Tea Party,Fantasyland,Magic Kingdom,Saturday,True,True,True,30.0,15.0,20.0
+633,Meet Ariel at Her Grotto,Fantasyland,Magic Kingdom,Friday,True,True,True,45.0,40.0,45.0
+634,Meet Ariel at Her Grotto,Fantasyland,Magic Kingdom,Saturday,True,True,True,60.0,25.0,35.0
+635,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,Fantasyland,Magic Kingdom,Friday,True,True,True,45.0,35.0,30.0
+636,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,Fantasyland,Magic Kingdom,Saturday,True,True,True,40.0,40.0,30.0
+637,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,Fantasyland,Magic Kingdom,Friday,True,True,True,25.0,40.0,30.0
+638,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,Fantasyland,Magic Kingdom,Saturday,True,True,True,25.0,25.0,20.0
+639,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,Fantasyland,Magic Kingdom,Friday,True,True,True,20.0,45.0,30.0
+640,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,Fantasyland,Magic Kingdom,Saturday,True,True,True,45.0,35.0,40.0
+641,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,Fantasyland,Magic Kingdom,Friday,True,True,True,35.0,30.0,30.0
+642,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,Fantasyland,Magic Kingdom,Saturday,True,True,True,30.0,30.0,50.0
+643,Mickey's PhilharMagic,Fantasyland,Magic Kingdom,Friday,True,True,True,15.0,15.0,15.0
+644,Mickey's PhilharMagic,Fantasyland,Magic Kingdom,Saturday,True,True,True,25.0,25.0,15.0
+645,Peter Pan's Flight,Fantasyland,Magic Kingdom,Friday,True,True,True,75.0,80.0,75.0
+646,Peter Pan's Flight,Fantasyland,Magic Kingdom,Saturday,True,True,True,75.0,85.0,55.0
+647,Prince Charming Regal Carrousel,Fantasyland,Magic Kingdom,Friday,True,True,True,15.0,10.0,15.0
+648,Prince Charming Regal Carrousel,Fantasyland,Magic Kingdom,Saturday,True,True,True,20.0,20.0,10.0
+649,Seven Dwarfs Mine Train,Fantasyland,Magic Kingdom,Friday,True,True,True,80.0,85.0,75.0
+650,Seven Dwarfs Mine Train,Fantasyland,Magic Kingdom,Saturday,True,True,True,80.0,80.0,75.0
+651,The Barnstormer,Fantasyland,Magic Kingdom,Friday,True,True,True,35.0,20.0,20.0
+652,The Barnstormer,Fantasyland,Magic Kingdom,Saturday,True,True,True,35.0,25.0,30.0
+653,The Many Adventures of Winnie the Pooh,Fantasyland,Magic Kingdom,Friday,True,True,True,50.0,35.0,45.0
+654,The Many Adventures of Winnie the Pooh,Fantasyland,Magic Kingdom,Saturday,True,True,True,45.0,20.0,50.0
+655,Under the Sea - Journey of The Little Mermaid,Fantasyland,Magic Kingdom,Friday,True,True,True,25.0,50.0,30.0
+656,Under the Sea - Journey of The Little Mermaid,Fantasyland,Magic Kingdom,Saturday,True,True,True,45.0,35.0,40.0
+657,Walt Disney World Railroad - Fantasyland,Fantasyland,Magic Kingdom,Friday,True,True,False,10.0,20.0,0.0
+658,Walt Disney World Railroad - Fantasyland,Fantasyland,Magic Kingdom,Saturday,True,True,False,0.0,30.0,0.0
+659,Big Thunder Mountain Railroad,Frontierland,Magic Kingdom,Friday,True,True,True,55.0,60.0,55.0
+660,Big Thunder Mountain Railroad,Frontierland,Magic Kingdom,Saturday,True,True,True,65.0,45.0,40.0
+661,Country Bear Jamboree,Frontierland,Magic Kingdom,Friday,True,True,True,0.0,15.0,15.0
+662,Country Bear Jamboree,Frontierland,Magic Kingdom,Saturday,False,True,True,0.0,15.0,15.0
+663,Splash Mountain,Frontierland,Magic Kingdom,Friday,False,False,False,0.0,0.0,0.0
+664,Splash Mountain,Frontierland,Magic Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+665,Tom Sawyer Island,Frontierland,Magic Kingdom,Friday,True,True,False,0.0,10.0,0.0
+666,Tom Sawyer Island,Frontierland,Magic Kingdom,Saturday,True,True,False,5.0,5.0,0.0
+667,Walt Disney World Railroad - Frontierland,Frontierland,Magic Kingdom,Friday,True,True,False,10.0,40.0,0.0
+668,Walt Disney World Railroad - Frontierland,Frontierland,Magic Kingdom,Saturday,True,True,False,0.0,10.0,0.0
+669,Haunted Mansion,Liberty Square,Magic Kingdom,Friday,False,False,True,0.0,0.0,65.0
+670,Haunted Mansion,Liberty Square,Magic Kingdom,Saturday,True,True,True,45.0,60.0,60.0
+671,Liberty Square Riverboat,Liberty Square,Magic Kingdom,Friday,True,True,True,0.0,15.0,15.0
+672,Liberty Square Riverboat,Liberty Square,Magic Kingdom,Saturday,True,False,True,15.0,0.0,15.0
+673,The Hall of Presidents,Liberty Square,Magic Kingdom,Friday,True,True,True,0.0,15.0,15.0
+674,The Hall of Presidents,Liberty Square,Magic Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+675,Disney Festival of Fantasy Parade,"Main Street, U.S.A.",Magic Kingdom,Friday,True,True,True,0.0,0.0,0.0
+676,Disney Festival of Fantasy Parade,"Main Street, U.S.A.",Magic Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+677,Meet Mickey at Town Square Theater,"Main Street, U.S.A.",Magic Kingdom,Friday,True,True,True,40.0,30.0,60.0
+678,Meet Mickey at Town Square Theater,"Main Street, U.S.A.",Magic Kingdom,Saturday,True,True,True,45.0,25.0,25.0
+679,"Walt Disney World Railroad - Main Street, U.S.A.","Main Street, U.S.A.",Magic Kingdom,Friday,True,True,False,10.0,10.0,0.0
+680,"Walt Disney World Railroad - Main Street, U.S.A.","Main Street, U.S.A.",Magic Kingdom,Saturday,True,True,False,0.0,10.0,0.0
+681,Astro Orbiter,Tomorrowland,Magic Kingdom,Friday,True,True,True,35.0,35.0,40.0
+682,Astro Orbiter,Tomorrowland,Magic Kingdom,Saturday,True,True,True,35.0,35.0,40.0
+683,Buzz Lightyear's Space Ranger Spin,Tomorrowland,Magic Kingdom,Friday,True,True,True,50.0,55.0,80.0
+684,Buzz Lightyear's Space Ranger Spin,Tomorrowland,Magic Kingdom,Saturday,True,True,True,50.0,45.0,45.0
+685,Monsters Inc. Laugh Floor,Tomorrowland,Magic Kingdom,Friday,True,True,True,20.0,15.0,10.0
+686,Monsters Inc. Laugh Floor,Tomorrowland,Magic Kingdom,Saturday,True,True,True,25.0,10.0,10.0
+687,Space Mountain,Tomorrowland,Magic Kingdom,Friday,True,True,True,60.0,65.0,50.0
+688,Space Mountain,Tomorrowland,Magic Kingdom,Saturday,True,True,False,65.0,60.0,0.0
+689,TRON Lightcycle / Run,Tomorrowland,Magic Kingdom,Friday,True,True,True,0.0,0.0,0.0
+690,TRON Lightcycle / Run,Tomorrowland,Magic Kingdom,Saturday,True,True,True,0.0,0.0,0.0
+691,Tomorrowland Speedway,Tomorrowland,Magic Kingdom,Friday,True,True,True,20.0,5.0,20.0
+692,Tomorrowland Speedway,Tomorrowland,Magic Kingdom,Saturday,True,True,True,15.0,5.0,15.0
+693,Tomorrowland Transit Authority PeopleMover,Tomorrowland,Magic Kingdom,Friday,True,True,True,20.0,20.0,15.0
+694,Tomorrowland Transit Authority PeopleMover,Tomorrowland,Magic Kingdom,Saturday,False,True,True,0.0,20.0,20.0
+695,Walt Disney's Carousel of Progress,Tomorrowland,Magic Kingdom,Friday,True,True,True,5.0,5.0,5.0
+696,Walt Disney's Carousel of Progress,Tomorrowland,Magic Kingdom,Saturday,True,True,True,5.0,5.0,5.0
+697,Ark,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+698,Ark,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+699,Boardwalk Bumper Buggies,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+700,Boardwalk Bumper Buggies,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+701,Cobra,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+702,Cobra,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+703,Monkey Business,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+704,Monkey Business,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+705,Monsoon Falls ,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+706,Monsoon Falls ,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+707,Rock Wall Climbing Challenge,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+708,Rock Wall Climbing Challenge,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+709,Scat-A-Bout,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+710,Scat-A-Bout,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+711,Thrilla Gorilla,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+712,Thrilla Gorilla,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+713,Wave Swinger,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+714,Wave Swinger,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+715,White Water Safari ,Family Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+716,White Water Safari ,Family Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+717,Air Penguins,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+718,Air Penguins,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+719,Bugs’ Buccaneer,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+720,Bugs’ Buccaneer,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+721,Congo Queen,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+722,Congo Queen,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+723,Elmer’s Weather Balloon Service,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+724,Elmer’s Weather Balloon Service,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+725,Foghorn’s Seaport Railway,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+726,Foghorn’s Seaport Railway,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+727,Merlin’s Seaside Tours,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+728,Merlin’s Seaside Tours,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+729,Nairobi’s Look Out Balloons,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+730,Nairobi’s Look Out Balloons,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+731,Pepe Le Pew’s Rafts of Romance,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+732,Pepe Le Pew’s Rafts of Romance,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+733,Road Runner Express,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+734,Road Runner Express,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+735,Safari Jeep Tours,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+736,Safari Jeep Tours,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+737,Seaport Carousel,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+738,Seaport Carousel,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+739,Seaside Railway,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+740,Seaside Railway,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+741,Sylvester’s Pounce & Bounce,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+742,Sylvester’s Pounce & Bounce,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+743,Taz’s Typhoon,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+744,Taz’s Typhoon,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+745,Yosemite Sam’s Flight School,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+746,Yosemite Sam’s Flight School,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+747,Zoe’s Tree House,Kids' Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+748,Zoe’s Tree House,Kids' Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+749,Big Top Terror,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+750,Big Top Terror,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+751,CarnEvil,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+752,CarnEvil,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+753,Dead Man’s Party,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+754,Dead Man’s Party,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+755,Lost Souls,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+756,Lost Souls,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+757,Midnight Mansion,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+758,Midnight Mansion,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+759,NEW! Club Fear (in 3D),Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+760,NEW! Club Fear (in 3D),Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+761,NEW! Corpse Crossing,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+762,NEW! Corpse Crossing,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+763,NEW! Murder Mill,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+764,NEW! Murder Mill,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+765,NEW! Weeping Wharf,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+766,NEW! Weeping Wharf,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+767,Slasher Circus,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+768,Slasher Circus,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+769,Sulfur City Society,Seasonal Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+770,Sulfur City Society,Seasonal Rides,Six Flags Discovery Kingdom,Saturday,False,False,False,0.0,0.0,0.0
+771,BATMAN: The Ride,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+772,BATMAN: The Ride,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+773,Boomerang Coast-to-Coaster,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+774,Boomerang Coast-to-Coaster,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+775,Kong,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+776,Kong,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+777,Medusa,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+778,Medusa,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+779,SUPERMAN Ultimate Flight,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+780,SUPERMAN Ultimate Flight,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+781,Sidewinder Safari,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+782,Sidewinder Safari,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+783,SkyScreamer,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+784,SkyScreamer,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+785,THE FLASH Vertical Velocity,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+786,THE FLASH Vertical Velocity,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+787,THE JOKER,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+788,THE JOKER,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+789,Wonder Woman Lasso of Truth,Thrill Rides,Six Flags Discovery Kingdom,Friday,False,False,False,0.0,0.0,0.0
+790,Wonder Woman Lasso of Truth,Thrill Rides,Six Flags Discovery Kingdom,Saturday,False,False,True,0.0,0.0,0.0
+791,Air Jumbo,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+792,Air Jumbo,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+793,Big Wheel,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+794,Big Wheel,Family Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+795,Buccaneer,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+796,Buccaneer,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+797,Carousel,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+798,Carousel,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+799,DejaVu,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+800,DejaVu,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+801,Enchanted Teacups,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+802,Enchanted Teacups,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+803,Fender Benders,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+804,Fender Benders,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+805,Great American Road Race,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+806,Great American Road Race,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+807,Harley Quinn Crazy Train,Family Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+808,Harley Quinn Crazy Train,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+809,Houdini’s Great Escape,Family Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+810,Houdini’s Great Escape,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+811,Jolly Roger,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+812,Jolly Roger,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+813,Saw Mill Log Flume,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+814,Saw Mill Log Flume,Family Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+815,Skyway Frontier Adventures,Family Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+816,Skyway Frontier Adventures,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+817,Swashbuckler,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+818,Swashbuckler,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+819,Tango,Family Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+820,Tango,Family Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+821,Air Safari,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+822,Air Safari,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+823,Barnstormer,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+824,Barnstormer,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+825,Bugaboo,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+826,Bugaboo,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+827,Bugs Bunny Camp Carousel,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+828,Bugs Bunny Camp Carousel,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+829,Bugs Bunny National Park Water Tower,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+830,Bugs Bunny National Park Water Tower,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+831,Bugs Bunny Ranger Pilots,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+832,Bugs Bunny Ranger Pilots,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+833,Daffy's Hot Air Balloons,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+834,Daffy's Hot Air Balloons,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+835,Foghorn Leghorn's Stagecoach Express,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+836,Foghorn Leghorn's Stagecoach Express,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+837,Jumpin’ Joey,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+838,Jumpin’ Joey,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+839,Lil’ Devil Coaster,Kids' Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+840,Lil’ Devil Coaster,Kids' Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+841,Porky Pig's Camp Wagons,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+842,Porky Pig's Camp Wagons,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+843,Raja’s Rickshaws,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+844,Raja’s Rickshaws,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+845,Sky Zooma,Kids' Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+846,Sky Zooma,Kids' Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+847,Tornado,Kids' Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+848,Tornado,Kids' Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+849,Aftermath,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+850,Aftermath,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+851,Big Top Terror: Forgotten Carnival in 3D,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+852,Big Top Terror: Forgotten Carnival in 3D,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+853,Blade Drummers,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+854,Blade Drummers,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+855,Blood Shed,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+856,Blood Shed,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+857,Bloodshed,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+858,Bloodshed,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+859,Bloody Fountain,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+860,Bloody Fountain,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+861,Clown Town,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+862,Clown Town,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+863,Congo Rapids,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+864,Congo Rapids,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+865,Cornstalk National Park,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+866,Cornstalk National Park,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+867,Curse of Blackbeard’s Bounty NEW!,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+868,Curse of Blackbeard’s Bounty NEW!,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+869,Dead Man’s Party: Grave Stories,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+870,Dead Man’s Party: Grave Stories,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+871,Demon District,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+872,Demon District,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+873,District 6,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+874,District 6,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+875,Fears,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+876,Fears,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+877,Freak Show,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+878,Freak Show,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+879,Gaming House,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+880,Gaming House,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+881,Lady of the Lake Cemetery,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+882,Lady of the Lake Cemetery,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+883,Reflections of the Dead,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+884,Reflections of the Dead,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+885,SAW X NEW!,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+886,SAW X NEW!,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+887,Scarecrow Street,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+888,Scarecrow Street,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+889,Spooktacular Dance Party,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+890,Spooktacular Dance Party,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+891,The Arrival Ghoul Parade,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+892,The Arrival Ghoul Parade,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+893,The Awakening,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+894,The Awakening,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+895,The Conjuring NEW!,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+896,The Conjuring NEW!,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+897,The Manor,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+898,The Manor,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+899,Trick-or-Treat Trail,Seasonal Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+900,Trick-or-Treat Trail,Seasonal Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+901,Unleashed,Seasonal Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+902,Unleashed,Seasonal Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+903,BATMAN: The Ride,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+904,BATMAN: The Ride,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+905,CYBORG™ Cyber Spin,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+906,CYBORG™ Cyber Spin,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+907,Dare Devil Dive,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+908,Dare Devil Dive,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+909,El Toro,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+910,El Toro,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+911,GREEN LANTERN,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+912,GREEN LANTERN,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+913,Jersey Devil Coaster,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+914,Jersey Devil Coaster,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+915,Justice League: Battle for Metropolis,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+916,Justice League: Battle for Metropolis,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+917,Kingda Ka,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+918,Kingda Ka,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,True,0.0,0.0,0.0
+919,Medusa,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+920,Medusa,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+921,Nitro,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+922,Nitro,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+923,Runaway Mine Train,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+924,Runaway Mine Train,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+925,SUPERMAN: Ultimate Flight,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+926,SUPERMAN: Ultimate Flight,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+927,Skull Mountain,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+928,Skull Mountain,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+929,Sky Screamer Extreme Flight,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+930,Sky Screamer Extreme Flight,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+931,SkyScreamer,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+932,SkyScreamer,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+933,Slingshot,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+934,Slingshot,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+935,THE JOKER,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+936,THE JOKER,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+937,The Dark Knight Coaster,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+938,The Dark Knight Coaster,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+939,Twister,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+940,Twister,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+941,WONDER WOMAN™ Lasso of Truth,Thrill Rides,Six Flags Great Adventure,Friday,True,True,True,0.0,0.0,0.0
+942,WONDER WOMAN™ Lasso of Truth,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+943,Wile E. Coyote Canyon Blaster,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+944,Wile E. Coyote Canyon Blaster,Thrill Rides,Six Flags Great Adventure,Saturday,False,False,False,0.0,0.0,0.0
+945,Zumanjaro: Drop of Doom,Thrill Rides,Six Flags Great Adventure,Friday,False,False,False,0.0,0.0,0.0
+946,Zumanjaro: Drop of Doom,Thrill Rides,Six Flags Great Adventure,Saturday,True,True,True,0.0,0.0,0.0
+947,Big Kahuna,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+948,Big Kahuna,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+949,Colossus,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+950,Colossus,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+951,Foghorn Leghorn National Park Railway,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+952,Foghorn Leghorn National Park Railway,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+953,Gulley Washer Creek,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+954,Gulley Washer Creek,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+955,Hurricane Bay,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+956,Hurricane Bay,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+957,Log Flume,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+958,Log Flume,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+959,River King Mine Train,Family Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+960,River King Mine Train,Family Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+961,Shazam!,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+962,Shazam!,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+963,THE JOKER Inc.,Family Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+964,THE JOKER Inc.,Family Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+965,Thunder River,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+966,Thunder River,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+967,Tommy G. Robertson Railroad,Family Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+968,Tommy G. Robertson Railroad,Family Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+969,Tsunami Soaker,Family Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+970,Tsunami Soaker,Family Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+971,Adventure Cove,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+972,Adventure Cove,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+973,Bugs Bunny Fort Fun,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+974,Bugs Bunny Fort Fun,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+975,Bugs Bunny Ranger Pilots,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+976,Bugs Bunny Ranger Pilots,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+977,Daffy Duck Stars on Parade,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+978,Daffy Duck Stars on Parade,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+979,Elmer Fudd Weather Balloons,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+980,Elmer Fudd Weather Balloons,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+981,JUSTICE LEAGUE: Battle for Metropolis,Kids' Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+982,JUSTICE LEAGUE: Battle for Metropolis,Kids' Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+983,Marvin the Martian Camp Invasion,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+984,Marvin the Martian Camp Invasion,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+985,Pandemonium,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+986,Pandemonium,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+987,Taz Twisters,Kids' Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+988,Taz Twisters,Kids' Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+989,Tweety Twee House,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+990,Tweety Twee House,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+991,Yosemite Sam Tugboat Tailspin,Kids' Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+992,Yosemite Sam Tugboat Tailspin,Kids' Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+993,Cannibal Hideout,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+994,Cannibal Hideout,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+995,Creatures of the Corn,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+996,Creatures of the Corn,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+997,Love At First Fright,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+998,Love At First Fright,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+999,Oddballs Funhouse,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1000,Oddballs Funhouse,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1001,Rookie Racer,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1002,Rookie Racer,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1003,Rottingham & Bones Graveyard,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1004,Rottingham & Bones Graveyard,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1005,Sinister Clowns,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1006,Sinister Clowns,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1007,Spider Alley,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1008,Spider Alley,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1009,Steampunk Pumpkins,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1010,Steampunk Pumpkins,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1011,THE JOKER™: Carnival of Chaos,Seasonal Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1012,THE JOKER™: Carnival of Chaos,Seasonal Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1013,The Slaughter House,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1014,The Slaughter House,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1015,The Underground,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1016,The Underground,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1017,Troll Bypass,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1018,Troll Bypass,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1019,Zombieville,Seasonal Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1020,Zombieville,Seasonal Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1021,American Thunder,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1022,American Thunder,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1023,BATMAN: The Ride,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1024,BATMAN: The Ride,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1025,Boomerang,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1026,Boomerang,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1027,CATWOMAN Whip,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1028,CATWOMAN Whip,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1029,Fireball,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1030,Fireball,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1031,MR. FREEZE: Reverse Blast,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1032,MR. FREEZE: Reverse Blast,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1033,Ninja,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1034,Ninja,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1035,SUPERGIRL Sky Flyer,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1036,SUPERGIRL Sky Flyer,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1037,Screamin’ Eagle,Thrill Rides,Six Flags St. Louis,Friday,True,True,True,0.0,0.0,0.0
+1038,Screamin’ Eagle,Thrill Rides,Six Flags St. Louis,Saturday,True,True,True,0.0,0.0,0.0
+1039,SkyScreamer,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1040,SkyScreamer,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1041,Spinsanity,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1042,Spinsanity,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1043,The Boss,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1044,The Boss,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1045,Tornado,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1046,Tornado,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1047,Tube Slides,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1048,Tube Slides,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1049,Wahoo Racer,Thrill Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1050,Wahoo Racer,Thrill Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1051,Pirate Ship Slides,Water Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1052,Pirate Ship Slides,Water Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1053,Typhoon Twister,Water Rides,Six Flags St. Louis,Friday,False,False,False,0.0,0.0,0.0
+1054,Typhoon Twister,Water Rides,Six Flags St. Louis,Saturday,False,False,False,0.0,0.0,0.0
+1055,Bloodmoon: Dark Offerings,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,15.0
+1056,Bloodmoon: Dark Offerings,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,35.0
+1057,Chucky: Ultimate Kill Count,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,10.0
+1058,Chucky: Ultimate Kill Count,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,10.0
+1059,Dr. Oddfellow's Twisted Origins,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,10.0
+1060,Dr. Oddfellow's Twisted Origins,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,10.0
+1061,Dueling Dragons: Choose Thy Fate,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,5.0
+1062,Dueling Dragons: Choose Thy Fate,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,5.0
+1063,Stranger Things 4,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,25.0
+1064,Stranger Things 4,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,15.0
+1065,The Darkest Deal,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,5.0
+1066,The Darkest Deal,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,5.0
+1067,The Exorcist: Believer,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,5.0
+1068,The Exorcist: Believer,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,10.0
+1069,The Last of Us™,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,15.0
+1070,The Last of Us™,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,15.0
+1071,Universal Monsters: Unmasked,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,20.0
+1072,Universal Monsters: Unmasked,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,10.0
+1073,YETI: Campground Kills,Halloween,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,20.0
+1074,YETI: Campground Kills,Halloween,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,15.0
+1075,Despicable Me Minion Mayhem™,Illumination's Minion Land,Universal Studios Orlando,Friday,True,True,False,50.0,20.0,0.0
+1076,Despicable Me Minion Mayhem™,Illumination's Minion Land,Universal Studios Orlando,Saturday,True,True,False,35.0,35.0,0.0
+1077,Illumination Theater,Illumination's Minion Land,Universal Studios Orlando,Friday,True,True,True,0.0,0.0,0.0
+1078,Illumination Theater,Illumination's Minion Land,Universal Studios Orlando,Saturday,True,True,True,0.0,0.0,0.0
+1079,Illumination's Villain-Con Minion Blast,Illumination's Minion Land,Universal Studios Orlando,Friday,True,True,False,20.0,15.0,0.0
+1080,Illumination's Villain-Con Minion Blast,Illumination's Minion Land,Universal Studios Orlando,Saturday,True,True,False,35.0,35.0,0.0
+1081,Race Through New York Starring Jimmy Fallon™,New York,Universal Studios Orlando,Friday,True,True,False,20.0,20.0,0.0
+1082,Race Through New York Starring Jimmy Fallon™,New York,Universal Studios Orlando,Saturday,True,True,False,25.0,25.0,0.0
+1083,Revenge of the Mummy™,New York,Universal Studios Orlando,Friday,True,True,True,35.0,35.0,15.0
+1084,Revenge of the Mummy™,New York,Universal Studios Orlando,Saturday,True,True,True,35.0,45.0,10.0
+1085,Hollywood Rip Ride Rockit™,Production Central,Universal Studios Orlando,Friday,True,True,True,25.0,25.0,5.0
+1086,Hollywood Rip Ride Rockit™,Production Central,Universal Studios Orlando,Saturday,True,True,True,20.0,25.0,5.0
+1087,TRANSFORMERS™: The Ride-3D,Production Central,Universal Studios Orlando,Friday,True,True,True,35.0,35.0,5.0
+1088,TRANSFORMERS™: The Ride-3D,Production Central,Universal Studios Orlando,Saturday,True,True,True,40.0,40.0,5.0
+1089,Fast & Furious - Supercharged™,San Francisco,Universal Studios Orlando,Friday,True,True,False,15.0,20.0,0.0
+1090,Fast & Furious - Supercharged™,San Francisco,Universal Studios Orlando,Saturday,True,True,False,25.0,30.0,0.0
+1091,Harry Potter and the Escape from Gringotts™,The Wizarding World of Harry Potter - Diagon Alley,Universal Studios Orlando,Friday,True,True,False,60.0,120.0,0.0
+1092,Harry Potter and the Escape from Gringotts™,The Wizarding World of Harry Potter - Diagon Alley,Universal Studios Orlando,Saturday,True,True,True,60.0,60.0,15.0
+1093,Hogwarts™ Express - King's Cross Station,The Wizarding World of Harry Potter - Diagon Alley,Universal Studios Orlando,Friday,True,True,False,10.0,65.0,0.0
+1094,Hogwarts™ Express - King's Cross Station,The Wizarding World of Harry Potter - Diagon Alley,Universal Studios Orlando,Saturday,True,True,False,50.0,80.0,0.0
+1095,E.T. Adventure™,Woody Woodpecker's Kidzone,Universal Studios Orlando,Friday,True,True,False,25.0,15.0,0.0
+1096,E.T. Adventure™,Woody Woodpecker's Kidzone,Universal Studios Orlando,Saturday,True,True,False,25.0,25.0,0.0
+1097,Kang & Kodos' Twirl 'n' Hurl,World Expo,Universal Studios Orlando,Friday,True,True,False,10.0,20.0,0.0
+1098,Kang & Kodos' Twirl 'n' Hurl,World Expo,Universal Studios Orlando,Saturday,True,True,False,35.0,35.0,0.0
+1099,MEN IN BLACK™ Alien Attack!™,World Expo,Universal Studios Orlando,Friday,False,True,True,0.0,35.0,10.0
+1100,MEN IN BLACK™ Alien Attack!™,World Expo,Universal Studios Orlando,Saturday,True,True,True,50.0,35.0,10.0
+1101,The Simpsons Ride™,World Expo,Universal Studios Orlando,Friday,True,True,False,20.0,25.0,0.0
+1102,The Simpsons Ride™,World Expo,Universal Studios Orlando,Saturday,True,True,False,25.0,60.0,0.0
