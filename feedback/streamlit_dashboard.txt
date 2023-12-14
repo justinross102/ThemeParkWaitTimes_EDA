@@ -1,0 +1,29 @@
+Here is the feedback I recieved for my Streamlit dashboard:
+
+Tyler Smith:
+- Overall, the dashboard looks amazing! You have descriptive sentences that explain what the user will be seeing which makes
+  it easy for the user to interpret the data.
+- This is nitpicky, but maybe consider making ‘attraction’ on your tooltip and y-axis plural since the amusement parks will have
+  more than one attraction (hopefully). (Number of Attractions per Park plot).
+- I loved the ability to view more than one park at a time!
+- Is your streamlit work located in a different repository than everything you used for the blog post? You may want to consider including
+  a Github link where your streamit code is located as well!
+
+Nate Lewis:
+"Justin, I think your dashboard looks really good. 
+
+For the Theme Park Lands section  I noticed a handful of them aren’t desperate into lands but instead seem to be more like type of attraction
+or target audience. Maybe note that in the description unless you think that makes it too wordy. 
+
+Also it looks like Discovery Kingdom was only open Saturday evening on the days you were looking at which makes it a bit awkward high/low wait
+times and closures sections. You probably have already noticed but I thought I’d just bring that to your attention in case you hadn’t."
+
+Rebekah Webb:
+- The streamlit app looks really good and is well organized, and fun to interact with. I thought it was cool that you had both the box plot and
+  violin plot options to play around with to see the different results in wait times for the theme parks.
+
+Autumn Brown (my wife):
+- On the highest and lowest wait times, is it possible to label afternoon on your slider? It is a little misleading because I didn’t realize
+  afternoon was an option
+- The top 5 labels go 0-4 which may be confusing to non techy people
+- Other than that, I love it!
