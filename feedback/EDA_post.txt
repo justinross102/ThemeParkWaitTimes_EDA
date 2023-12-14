@@ -1,1 +1,30 @@
 The SHA number of the commit with the first draft I shared is dad35a5.
+
+Here is the feedback I recieved:
+
+Tyler Smith:
+- This is insanely good
+- Very interesting stuff
+- I really like how you emphasized your research questions by bolding them. Your visualizations look great and do a good
+  job of answering the questions. I don’t think you need ‘from’ and ‘during’ together and probably don’t need morning, afternoon,
+  and evening capitalized in intro.
+- You might not need to suggest that smaller parks have higher wait times since you debunk that later on when you talk about the
+  weak correlation between those two variables in your scatterplot
+- Maybe I am just dumb and don’t know how to read charts, but I was a little confused about the point plots. Are the vertical line
+  representative of the the confidence intervals? It might be helpful to speak briefly about why you included the confidence intervals
+  and how that can be interpreted with the wait times
+
+Nate Lewis:
+I think this post is really good. The one thing I noticed was you ask the question in bold “What attractions have the
+highest wait times in each park?” but then it switches to the top five across all parks for each time period and the
+question in bold is never answered. 
+
+Rebekah Webb:
+- I think it looks great, visually, the graphs that were used were colorful, and easy to follow.  I like how you used a
+  violin plot in addition to a boxplot to explain the more in depth look at the response variable and how that produces
+  a different result of wait times.
+- This blog is organized and well formatted like your first blog.
+- I liked how you listed the questions that you wanted data to answer in each of the sections on your blog in bold. It might
+  stand out more if the questions are with the title of each section, and then the explanation of how the data answered the
+  question follows.
+
