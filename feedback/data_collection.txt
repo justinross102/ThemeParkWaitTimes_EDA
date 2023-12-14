@@ -6,14 +6,20 @@ Tyler Smith:
 Your data collection blog looks really good Justin! I might have noticed a typo so maybe check on this!
 - Under ‘Collecting Data’, ‘I used to following code’
 
-Hmm, there isn’t anything about this in the instructions, but I remember on one of our previous blog posts for this class, she asked us to include some kind of call to action in our conclusion. You could consider adding one of those maybe but for the most part, I thought the post was super clear and flowed well!
+Hmm, there isn’t anything about this in the instructions, but I remember on one of our previous blog posts for this class,
+she asked us to include some kind of call to action in our conclusion. You could consider adding one of those maybe but for
+the most part, I thought the post was super clear and flowed well!
 
 Nate Lewis:
-I really like your post. I thought the intro and outdo were especially good. My one critique was after reading through it I didn’t really understand why you only looked at Friday and Saturday. I might have just missed something though.
+I really like your post. I thought the intro and outdo were especially good. My one critique was after reading through it I
+didn’t really understand why you only looked at Friday and Saturday. I might have just missed something though.
 
 Rebekah Webb
 -I liked how you explained the process of obtaining the api and the code that you wrote to request the data from the api.  
 -Visually, everything looks good, the post is well organized and is easy to follow.
 -I suggest that you include a section on the ethics of obtaining the api and how you’ll use it etc. for the tier 1 criteria.
 
-Based on this feedback, I made some small but important changes to my post. From Tyler's feedback, I made sure to include a link to my Github repository and code. I also fixed the typo that he pointed out. Following Nate's feedback, I added an explanation for why the data only came from a Friday or Saturday. To implement Rebekah's feedback, I added an ethical considerations section at the bottom of the post.
+Based on this feedback, I made some small but important changes to my post. From Tyler's feedback, I made sure to include a
+link to my Github repository and code. I also fixed the typo that he pointed out. Following Nate's feedback, I added an explanation
+for why the data only came from a Friday or Saturday. To implement Rebekah's feedback, I added an ethical considerations section
+at the bottom of the post.
