@@ -27,3 +27,10 @@ Autumn Brown (my wife):
   afternoon was an option
 - The top 5 labels go 0-4 which may be confusing to non techy people
 - Other than that, I love it!
+
+To implement this feedback, I made the following changes:
+- I edited some tooltips to make them more readable
+- I added a link to the repository for my streamlit dashboard
+- I added some notes to the user so that they are aware of the things Nate mentioned
+- I wasn't able to figure out how to add a middle label to the slider, but I did change the index in my tables
+  from 0-4 to 1-5
