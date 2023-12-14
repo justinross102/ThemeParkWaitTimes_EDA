@@ -28,3 +28,7 @@ Rebekah Webb:
   stand out more if the questions are with the title of each section, and then the explanation of how the data answered the
   question follows.
 
+To implement this feedback, I made a few small changes. From Tyler's feedback, I made some changes to the introduction paragraph,
+and I also added more explanations around confidence intervals to the point plots at the end of my post. To implement Nate's feedback,
+I rephrased the question slightly so that the charts more accurately answered the question. I really appreciated Rebekah's feedback, but
+I ultimately decided not to follow her sugestion of moving the location of my questions in each section.
