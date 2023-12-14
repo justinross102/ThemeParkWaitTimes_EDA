@@ -3,9 +3,7 @@ Part 1: Choose a Topic
 For this project, I came up with the following potential topics:
 
 1. How do wait times at theme parks change over the course of a day? Using this information, when is the best time of day to go to a theme park?
-
 2. How do the temperature and atmospheric conditions on Mars change over the seasons, and how does it compare to Earth's seasons?
-
 3. What factors significantly influence the IMDB score, Rotten Tomatoes Score, and Box Office of movies?
 
 I received the following feedback on these topics from my fellow students:
@@ -16,5 +14,4 @@ Rebekah: "I like all your topics Justin. I like your first one the best as a mar
 
 Davis: "I don't mean to shake things up but I actually like the last one the most. I think both producers and regular people alike would find the conclusions at least semi interesting."
 
-Based on this feedback, I decided to go with my first topic idea related to theme part wait times. I was encouraged by the fact that my fellow students thought this topic would be appropriate for analysis. I also liked 
-the idea that this topic could be marketable for people who like to plan ahead for their theme park trips.
+Based on this feedback, I decided to go with my first topic idea related to theme part wait times. I was encouraged by the fact that my fellow students thought this topic would be appropriate for analysis. I also liked the idea that this topic could be marketable for people who like to plan ahead for their theme park trips.
