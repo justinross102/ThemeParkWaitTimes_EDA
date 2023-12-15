@@ -5,5 +5,6 @@ This repository documents my semester project, which is related to attraction wa
 
 In this repository, you will find:  
 * Python code for scraping and cleaning the data
+* Python code for creating the graphs for my EDA post
 * The dataset
 * A folder named `feedback` which contains documentation of peer feedback and my responses for each project part
